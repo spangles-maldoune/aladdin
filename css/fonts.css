@@ -1,0 +1,11 @@
+@font-face{
+   font-family: "Plumb";
+   src: url("../fonts/plumb-regular.otf") format("opentype");
+   font-weight: normal;
+}
+
+@font-face{
+   font-family: "Plumb";
+   src: url("../fonts/plumb-bold.otf") format("opentype");
+   font-weight: bold;
+}
